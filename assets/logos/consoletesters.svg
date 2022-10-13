@@ -1,0 +1,63 @@
+<svg
+  width="512"
+  height="512"
+  viewBox="0 0 512 512"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-labelledby="title"
+>
+  <title id="title">Console Testers favicon</title>
+  <defs>
+    <linearGradient id="bg" x1="24" y1="8" x2="488" y2="504" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141325" />
+      <stop offset="1" stop-color="#221B3D" />
+    </linearGradient>
+    <linearGradient id="mark" x1="144" y1="120" x2="428" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" />
+      <stop offset="0.58" stop-color="#C026D3" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+    <linearGradient id="face" x1="188" y1="216" x2="357" y2="298" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#C026D3" />
+    </linearGradient>
+    <radialGradient
+      id="sheen"
+      cx="0"
+      cy="0"
+      r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(140 112) rotate(45) scale(292 248)"
+    >
+      <stop stop-color="#8B5CF6" stop-opacity="0.24" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+    </radialGradient>
+    <mask id="eyesMask" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse">
+      <rect width="512" height="512" fill="white" />
+      <circle cx="223.5" cy="258" r="17" fill="black" />
+      <circle cx="317.5" cy="258" r="17" fill="black" />
+    </mask>
+  </defs>
+  <g
+    transform="translate(-28 -18) translate(256 256) scale(1.22) translate(-256 -256)"
+    stroke="url(#mark)"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <path
+      d="M344 135H174C135.34 138 104 169.34 104 208V300C104 338.66 135.34 370 174 370H262"
+      stroke-width="28"
+    />
+    <path d="M344 135C388.66 138 420 169.34 420 208V240" stroke-width="28" />
+    <path
+      d="M176 286C176 229.67 204.4 206.7 270.5 209.9C336.6 206.7 365 229.67 365 286H176Z"
+      fill="url(#face)"
+      stroke="none"
+      mask="url(#eyesMask)"
+    />
+    <path d="M238 212 208 168" stroke-width="14" />
+    <path d="M303 212 333 168" stroke-width="14" />
+    <path d="M304 324 352 372 468 251" stroke-width="35" />
+  </g>
+</svg>
