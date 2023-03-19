@@ -1,26 +1,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Serem+Titus+(serem_empire);If+you+like+any+of+My+projects+consider+also+following)](https://git.io/typing-svg)
 <!-- Social icons section -->
+
 <p align="center">
-  <a href="mailto:seremempire+dev@gmail.com"><img width="32px" alt="Mail" title="Mail" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/SeremEmpire"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- </p>
-<p align="center">
-  <img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=seremempire&theme=dark&hide_border=true&background=0D111700&stroke=DD272700&currStreakNum=FA0000&ring=DD0000&sideLabels=FF8E01&sideNums=FF8E01&fire=DD2727" />
+  <img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=SeremTitus&theme=dark&hide_border=true&background=0D111700&stroke=DD272700&currStreakNum=FA0000&ring=DD0000&sideLabels=FF8E01&sideNums=FF8E01&fire=DD2727" />
 </p>
 
 
 | Stats      | Languages |
 | ----------- | ----------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=seremempire&show_icons=true&theme=radical&include_all_commits=true">      | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seremempire&theme=radical&layout=compact">      |
+| <img src="https://github-readme-stats.vercel.app/api?username=SeremTitus&show_icons=true&theme=radical&include_all_commits=true">      | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeremTitus&theme=radical&layout=compact">      |
 
 <div align="center">
   <p>:trophy: Github Profile Trophy</p>
 </div>
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seremempire" alt="seremempire" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SeremTitus" alt="SeremTitus" /></a>
 </p>
 
 <p>
