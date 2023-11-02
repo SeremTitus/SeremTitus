@@ -1,14 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Serem+Titus+;If+you+like+any+of+My+projects+consider+also+following)](https://git.io/typing-svg)
-<!-- Social icons section -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Serem+Titus)](https://git.io/typing-svg)
 
 <p align="center">
   <img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=SeremTitus&theme=dark&hide_border=true&background=0D111700&stroke=DD272700&currStreakNum=FA0000&ring=DD0000&sideLabels=FF8E01&sideNums=FF8E01&fire=DD2727" />
 </p>
 
-
 | Stats      | Languages |
-| ----------- | ----------- |
+|----------- | ----------- |
 | <img src="https://github-readme-stats.vercel.app/api?username=SeremTitus&show_icons=true&theme=radical"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeremTitus&theme=radical&layout=compact">      |
 
 <p>
@@ -18,6 +16,7 @@
     <a><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/java-69211A.svg?logo=cs2&logoColor=white"></a>
     <a><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=color-swatch&logoColor=white"></a>
     <a><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
