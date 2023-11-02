@@ -9,7 +9,7 @@
 
 | Stats      | Languages |
 | ----------- | ----------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=SeremTitus&show_icons=true&theme=radical&include_all_commits=true">      | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeremTitus&theme=radical&layout=compact">      |
+| <img src="https://github-readme-stats.vercel.app/api?username=SeremTitus&show_icons=true&theme=radical"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeremTitus&theme=radical&layout=compact">      |
 
 <p>
     <a><img alt="X84 Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
