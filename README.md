@@ -11,13 +11,6 @@
 | ----------- | ----------- |
 | <img src="https://github-readme-stats.vercel.app/api?username=SeremTitus&show_icons=true&theme=radical&include_all_commits=true">      | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeremTitus&theme=radical&layout=compact">      |
 
-<div align="center">
-  <p>:trophy: Github Profile Trophy</p>
-</div>
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SeremTitus" alt="SeremTitus" /></a>
-</p>
-
 <p>
     <a><img alt="X84 Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>    
