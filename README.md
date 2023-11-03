@@ -1,14 +1,10 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Serem+Titus)](https://git.io/typing-svg)
 
 <p align="center">
   <img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=SeremTitus&theme=dark&hide_border=true&background=0D111700&stroke=DD272700&currStreakNum=FA0000&ring=DD0000&sideLabels=FF8E01&sideNums=FF8E01&fire=DD2727" />
 </p>
 
-| Stats      | Languages |
-|----------- | ----------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=SeremTitus&show_icons=true&theme=radical"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeremTitus&theme=radical&layout=compact">      |
-
+<img src="https://github-readme-stats.vercel.app/api?username=SeremTitus&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeremTitus&theme=radical&layout=donut-vertical"> 
 <p>
     <a><img alt="X84 Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>    
