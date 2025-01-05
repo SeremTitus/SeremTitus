@@ -41,6 +41,7 @@
     <a><img alt="Audacity" src="https://img.shields.io/badge/Audacity-0000CC.svg?logo=audacity&logoColor=white"></a>
     <a><img alt="7-Zip" src="https://img.shields.io/badge/7--Zip-018E42.svg?logo=7zip&logoColor=white"></a>
     <a><img alt="BTC" src="https://img.shields.io/badge/Bitcoin-F2A900.svg?logo=bitcoin&logoColor=white"></a>
+    <a><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?logo=ethereum&logoColor=white"></a>
     <a><img alt="Monero" src="https://img.shields.io/badge/Monero-FF6600.svg?logo=monero&logoColor=white"></a>
     <a><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
 </p>
