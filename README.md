@@ -38,6 +38,8 @@
     <a><img alt="VLC" src="https://img.shields.io/badge/VLC-FF8800.svg?logo=vlc-media-player&logoColor=white"></a>
     <a><img alt="FreeCAD" src="https://img.shields.io/badge/FreeCAD-005CA5.svg?logo=freecad&logoColor=white"></a>
     <a><img alt="KiCad" src="https://img.shields.io/badge/KiCad-314CB0.svg?logo=kicad&logoColor=white"></a>
+    <a><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?logo=arduino&logoColor=white"></a>
+    <a><img alt="ROS" src="https://img.shields.io/badge/ROS-22314E.svg?logo=ros&logoColor=white"></a>
     <a><img alt="Audacity" src="https://img.shields.io/badge/Audacity-0000CC.svg?logo=audacity&logoColor=white"></a>
     <a><img alt="7-Zip" src="https://img.shields.io/badge/7--Zip-018E42.svg?logo=7zip&logoColor=white"></a>
     <a><img alt="BTC" src="https://img.shields.io/badge/Bitcoin-F2A900.svg?logo=bitcoin&logoColor=white"></a>
