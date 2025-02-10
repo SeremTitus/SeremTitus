@@ -49,3 +49,12 @@
 </p>
 
 ---
+
+<div>
+    <a href="https://docs.google.com/document/d/16vvTvY09ZQlp-qYOGJTjYkiujZNoNznCz8I83vJ3MJE/edit?usp=sharing](https://docs.google.com/document/d/16vvTvY09ZQlp-qYOGJTjYkiujZNoNznCz8I83vJ3MJE/edit?usp=sharing)](https://docs.google.com/document/d/16vvTvY09ZQlp-qYOGJTjYkiujZNoNznCz8I83vJ3MJE/edit?usp=sharing" 
+        target="_blank">
+        My Resume/CV
+    </a>
+</div>
+
+---
