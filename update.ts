@@ -34,7 +34,7 @@ const products: Product[] = [
     href: "https://ruzta.seremtitus.co.ke",
     logo: "assets/logos/ruzta.svg",
     description: "A domain-specific language built to supercharge game development in Godot Engine.",
-    status: "v1.0.0Beta",
+    status: "v1.0.0Beta3",
     statusColor: "yellow",
   },
   {
@@ -42,7 +42,15 @@ const products: Product[] = [
     href: "https://splinter.seremtitus.co.ke",
     logo: "assets/logos/splinter.svg",
     description: "A CLI tool for quick, repetitive uploads and downloads to/from your server, using FTP.",
-    status: "v2.0.2",
+    status: "v2.0.7",
+    statusColor: "brightgreen",
+  },
+  {
+    name: "GDIO: A CLI Tool",
+    href: "https://gdio.seremtitus.co.ke",
+    logo: "assets/logos/gdio.svg",
+    description: "CLI tool for managing Godot Engine projects, editor versions and export templates.",
+    status: "v1.0.0Stable",
     statusColor: "brightgreen",
   },
   {
@@ -265,7 +273,7 @@ function generateReadme(productSection: string): string {
     { name: "Medium", href: "https://medium.com/@seremtitus", file: "medium.svg" },
     { name: "YouTube", href: "https://youtube.com/@serem_titus", file: "youtube.svg" },
     { name: "TikTok", href: "https://www.tiktok.com/@seremtitus", file: "tiktok.svg" },
-    { name: "X", href: "https://x.com/SeremTitus_SE", file: "x.svg" },
+    { name: "X", href: "https://x.com/SeremTitusDev", file: "x.svg" },
     { name: "Instagram", href: "https://instagram.com/serem_titus_se", file: "instagram.svg" },
     // { name: "WhatsApp", href: "https://wa.me/XXXXXXXXXXX", file: "whatsapp.svg" },
   ];

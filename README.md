@@ -10,7 +10,7 @@
     <a href="https://medium.com/@seremtitus" target="_blank" style="margin: 0 8px"><img alt="Medium" src="assets/socials/medium.svg" height="28"></a>
     <a href="https://youtube.com/@serem_titus" target="_blank" style="margin: 0 8px"><img alt="YouTube" src="assets/socials/youtube.svg" height="28"></a>
     <a href="https://www.tiktok.com/@seremtitus" target="_blank" style="margin: 0 8px"><img alt="TikTok" src="assets/socials/tiktok.svg" height="28"></a>
-    <a href="https://x.com/SeremTitus_SE" target="_blank" style="margin: 0 8px"><img alt="X" src="assets/socials/x.svg" height="28"></a>
+    <a href="https://x.com/SeremTitusDev" target="_blank" style="margin: 0 8px"><img alt="X" src="assets/socials/x.svg" height="28"></a>
     <a href="https://instagram.com/serem_titus_se" target="_blank" style="margin: 0 8px"><img alt="Instagram" src="assets/socials/instagram.svg" height="28"></a>
 </p>
 
@@ -32,7 +32,7 @@ A domain-specific language built to supercharge game development in Godot Engine
 
 <a href="https://ruzta.seremtitus.co.ke" target="_blank"><img src="assets/screenshots/ruzta-seremtitus-co-ke.png" alt="Ruzta Screenshot" width="100%"></a>
 
-[![Status](https://img.shields.io/badge/Status-v1.0.0Beta-yellow)](https://ruzta.seremtitus.co.ke)
+[![Status](https://img.shields.io/badge/Status-v1.0.0Beta3-yellow)](https://ruzta.seremtitus.co.ke)
 
 ---
 
@@ -42,7 +42,17 @@ A CLI tool for quick, repetitive uploads and downloads to/from your server, usin
 
 <a href="https://splinter.seremtitus.co.ke" target="_blank"><img src="assets/screenshots/splinter-seremtitus-co-ke.png" alt="Splinter FTP Client Screenshot" width="100%"></a>
 
-[![Status](https://img.shields.io/badge/Status-v2.0.2-brightgreen)](https://splinter.seremtitus.co.ke)
+[![Status](https://img.shields.io/badge/Status-v2.0.7-brightgreen)](https://splinter.seremtitus.co.ke)
+
+---
+
+<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://gdio.seremtitus.co.ke" target="_blank"><img src="assets/logos/gdio.svg" alt="GDIO: A CLI Tool Logo" width="50"></a></td><td style="border:none"><h1><a href="https://gdio.seremtitus.co.ke" target="_blank">GDIO: A CLI Tool</a></h1></td></tr></table>
+
+CLI tool for managing Godot Engine projects, editor versions and export templates.
+
+<a href="https://gdio.seremtitus.co.ke" target="_blank"><img src="assets/screenshots/gdio-seremtitus-co-ke.png" alt="GDIO: A CLI Tool Screenshot" width="100%"></a>
+
+[![Status](https://img.shields.io/badge/Status-v1.0.0Stable-brightgreen)](https://gdio.seremtitus.co.ke)
 
 ---
 
