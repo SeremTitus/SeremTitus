@@ -46,7 +46,7 @@ const products: Product[] = [
     statusColor: "brightgreen",
   },
   {
-    name: "GDIO: A CLI Tool",
+    name: "gdio : A CLI Tool",
     href: "https://gdio.seremtitus.co.ke",
     logo: "assets/logos/gdio.svg",
     description: "CLI tool for managing Godot Engine projects, editor versions and export templates.",

@@ -46,11 +46,11 @@ A CLI tool for quick, repetitive uploads and downloads to/from your server, usin
 
 ---
 
-<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://gdio.seremtitus.co.ke" target="_blank"><img src="assets/logos/gdio.svg" alt="GDIO: A CLI Tool Logo" width="50"></a></td><td style="border:none"><h1><a href="https://gdio.seremtitus.co.ke" target="_blank">GDIO: A CLI Tool</a></h1></td></tr></table>
+<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://gdio.seremtitus.co.ke" target="_blank"><img src="assets/logos/gdio.svg" alt="gdio : A CLI Tool Logo" width="50"></a></td><td style="border:none"><h1><a href="https://gdio.seremtitus.co.ke" target="_blank">gdio : A CLI Tool</a></h1></td></tr></table>
 
 CLI tool for managing Godot Engine projects, editor versions and export templates.
 
-<a href="https://gdio.seremtitus.co.ke" target="_blank"><img src="assets/screenshots/gdio-seremtitus-co-ke.png" alt="GDIO: A CLI Tool Screenshot" width="100%"></a>
+<a href="https://gdio.seremtitus.co.ke" target="_blank"><img src="assets/screenshots/gdio-seremtitus-co-ke.png" alt="gdio : A CLI Tool Screenshot" width="100%"></a>
 
 [![Status](https://img.shields.io/badge/Status-v1.0.0Stable-brightgreen)](https://gdio.seremtitus.co.ke)
 
