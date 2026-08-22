@@ -6,9 +6,11 @@
 </h2>
 
 <p align="center">
+    <a href="https://seremtitus.itch.io/" target="_blank" style="margin: 0 8px"><img alt="itch.io" src="assets/socials/itchio.svg" height="28"></a>
     <a href="https://linkedin.com/in/SeremTitus" target="_blank" style="margin: 0 8px"><img alt="LinkedIn" src="assets/socials/linkedin.svg" height="28"></a>
     <a href="https://medium.com/@seremtitus" target="_blank" style="margin: 0 8px"><img alt="Medium" src="assets/socials/medium.svg" height="28"></a>
     <a href="https://youtube.com/@serem_titus" target="_blank" style="margin: 0 8px"><img alt="YouTube" src="assets/socials/youtube.svg" height="28"></a>
+    <a href="https://www.twitch.tv/serem_titus" target="_blank" style="margin: 0 8px"><img alt="Twitch" src="assets/socials/twitch.svg" height="28"></a>
     <a href="https://www.tiktok.com/@seremtitus" target="_blank" style="margin: 0 8px"><img alt="TikTok" src="assets/socials/tiktok.svg" height="28"></a>
     <a href="https://x.com/SeremTitusDev" target="_blank" style="margin: 0 8px"><img alt="X" src="assets/socials/x.svg" height="28"></a>
     <a href="https://instagram.com/serem_titus_se" target="_blank" style="margin: 0 8px"><img alt="Instagram" src="assets/socials/instagram.svg" height="28"></a>

@@ -269,9 +269,11 @@ function generateProductSection(screenshotPaths: Map<string, string | null>) {
 
 function generateReadme(productSection: string): string {
   const socials = [
+    { name: "itch.io", href: "https://seremtitus.itch.io/", file: "itchio.svg" },
     { name: "LinkedIn", href: "https://linkedin.com/in/SeremTitus", file: "linkedin.svg" },
     { name: "Medium", href: "https://medium.com/@seremtitus", file: "medium.svg" },
     { name: "YouTube", href: "https://youtube.com/@serem_titus", file: "youtube.svg" },
+    { name: "Twitch", href: "https://www.twitch.tv/serem_titus", file: "twitch.svg" },
     { name: "TikTok", href: "https://www.tiktok.com/@seremtitus", file: "tiktok.svg" },
     { name: "X", href: "https://x.com/SeremTitusDev", file: "x.svg" },
     { name: "Instagram", href: "https://instagram.com/serem_titus_se", file: "instagram.svg" },
