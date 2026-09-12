@@ -15,6 +15,8 @@ type Product = {
   name: string;
   href: string;
   logo: string;
+  logoWidth?: string;
+  logoHeight?: string;
   description: string;
   status: string;
   statusColor: string;
@@ -51,6 +53,16 @@ const products: Product[] = [
     logo: "assets/logos/gdio.svg",
     description: "CLI tool for managing Godot Engine projects, editor versions and export templates.",
     status: "v1.0.0Stable",
+    statusColor: "brightgreen",
+  },
+  {
+    name: "Conversion Thing",
+    href: "https://conversionthing.seremtitus.co.ke",
+    logo: "assets/logos/conversion_thing.svg",
+    logoWidth: "auto",
+    logoHeight: "70",
+    description: "File Format Conversion Tool. Convert files from X (*.pdf) to Y (*.md). Supports 330+ file formats with privacy in mind, your files never touch or get stored on our servers.",
+    status: "Live: Try Now",
     statusColor: "brightgreen",
   },
   {
@@ -253,7 +265,9 @@ function generateProductSection(screenshotPaths: Map<string, string | null>) {
     const screenshotPath = screenshotPaths.get(product.href);
     const screenshotFile = screenshotPath ? path.basename(screenshotPath) : null;
 
-    section += `<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="${product.href}" target="_blank"><img src="${product.logo}" alt="${product.name} Logo" width="50"></a></td><td style="border:none"><h1><a href="${product.href}" target="_blank">${product.name}</a></h1></td></tr></table>\n\n`;
+    const logoWidth = product.logoWidth ?? "70";
+    const logoHeight = product.logoHeight ?? "auto";
+    section += `<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="${product.href}" target="_blank"><img src="${product.logo}" alt="${product.name} Logo" width="${logoWidth}" height="${logoHeight}"></a></td><td style="border:none"><h1><a href="${product.href}" target="_blank">${product.name}</a></h1></td></tr></table>\n\n`;
     section += `${product.description}\n\n`;
 
     if (screenshotFile) {

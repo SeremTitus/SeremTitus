@@ -18,7 +18,7 @@
 
 ---
 
-<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://consoletesters.com" target="_blank"><img src="assets/logos/consoletesters.svg" alt="Console Testers Logo" width="50"></a></td><td style="border:none"><h1><a href="https://consoletesters.com" target="_blank">Console Testers</a></h1></td></tr></table>
+<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://consoletesters.com" target="_blank"><img src="assets/logos/consoletesters.svg" alt="Console Testers Logo" width="70" height="auto"></a></td><td style="border:none"><h1><a href="https://consoletesters.com" target="_blank">Console Testers</a></h1></td></tr></table>
 
 A platform built to support PlayStore developers.
 
@@ -28,7 +28,7 @@ A platform built to support PlayStore developers.
 
 ---
 
-<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://ruzta.seremtitus.co.ke" target="_blank"><img src="assets/logos/ruzta.svg" alt="Ruzta Logo" width="50"></a></td><td style="border:none"><h1><a href="https://ruzta.seremtitus.co.ke" target="_blank">Ruzta</a></h1></td></tr></table>
+<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://ruzta.seremtitus.co.ke" target="_blank"><img src="assets/logos/ruzta.svg" alt="Ruzta Logo" width="70" height="auto"></a></td><td style="border:none"><h1><a href="https://ruzta.seremtitus.co.ke" target="_blank">Ruzta</a></h1></td></tr></table>
 
 A domain-specific language built to supercharge game development in Godot Engine.
 
@@ -38,7 +38,7 @@ A domain-specific language built to supercharge game development in Godot Engine
 
 ---
 
-<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://splinter.seremtitus.co.ke" target="_blank"><img src="assets/logos/splinter.svg" alt="Splinter FTP Client Logo" width="50"></a></td><td style="border:none"><h1><a href="https://splinter.seremtitus.co.ke" target="_blank">Splinter FTP Client</a></h1></td></tr></table>
+<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://splinter.seremtitus.co.ke" target="_blank"><img src="assets/logos/splinter.svg" alt="Splinter FTP Client Logo" width="70" height="auto"></a></td><td style="border:none"><h1><a href="https://splinter.seremtitus.co.ke" target="_blank">Splinter FTP Client</a></h1></td></tr></table>
 
 A CLI tool for quick, repetitive uploads and downloads to/from your server, using FTP.
 
@@ -48,7 +48,7 @@ A CLI tool for quick, repetitive uploads and downloads to/from your server, usin
 
 ---
 
-<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://gdio.seremtitus.co.ke" target="_blank"><img src="assets/logos/gdio.svg" alt="gdio : A CLI Tool Logo" width="50"></a></td><td style="border:none"><h1><a href="https://gdio.seremtitus.co.ke" target="_blank">gdio : A CLI Tool</a></h1></td></tr></table>
+<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://gdio.seremtitus.co.ke" target="_blank"><img src="assets/logos/gdio.svg" alt="gdio : A CLI Tool Logo" width="70" height="auto"></a></td><td style="border:none"><h1><a href="https://gdio.seremtitus.co.ke" target="_blank">gdio : A CLI Tool</a></h1></td></tr></table>
 
 CLI tool for managing Godot Engine projects, editor versions and export templates.
 
@@ -58,7 +58,17 @@ CLI tool for managing Godot Engine projects, editor versions and export template
 
 ---
 
-<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://kraft.seremtitus.co.ke" target="_blank"><img src="assets/logos/kraft.svg" alt="Kraft Logo" width="50"></a></td><td style="border:none"><h1><a href="https://kraft.seremtitus.co.ke" target="_blank">Kraft</a></h1></td></tr></table>
+<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://conversionthing.seremtitus.co.ke" target="_blank"><img src="assets/logos/conversion_thing.svg" alt="Conversion Thing Logo" width="auto" height="70"></a></td><td style="border:none"><h1><a href="https://conversionthing.seremtitus.co.ke" target="_blank">Conversion Thing</a></h1></td></tr></table>
+
+File Format Conversion Tool. Convert files from X (*.pdf) to Y (*.md). Supports 330+ file formats with privacy in mind, your files never touch or get stored on our servers.
+
+<a href="https://conversionthing.seremtitus.co.ke" target="_blank"><img src="assets/screenshots/conversionthing-seremtitus-co-ke.png" alt="Conversion Thing Screenshot" width="100%"></a>
+
+[![Status](https://img.shields.io/badge/Status-Live%3A%20Try%20Now-brightgreen)](https://conversionthing.seremtitus.co.ke)
+
+---
+
+<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://kraft.seremtitus.co.ke" target="_blank"><img src="assets/logos/kraft.svg" alt="Kraft Logo" width="70" height="auto"></a></td><td style="border:none"><h1><a href="https://kraft.seremtitus.co.ke" target="_blank">Kraft</a></h1></td></tr></table>
 
 A portable domain-specific language to write readable node graphs eg Blender Node System.
 
@@ -68,7 +78,7 @@ A portable domain-specific language to write readable node graphs eg Blender Nod
 
 ---
 
-<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://seremtitus.co.ke" target="_blank"><img src="assets/logos/seremtitus.svg" alt="seremtitus.co.ke Logo" width="50"></a></td><td style="border:none"><h1><a href="https://seremtitus.co.ke" target="_blank">seremtitus.co.ke</a></h1></td></tr></table>
+<table style="border:none;border-collapse:collapse"><tr><td style="border:none;padding-right:10px"><a href="https://seremtitus.co.ke" target="_blank"><img src="assets/logos/seremtitus.svg" alt="seremtitus.co.ke Logo" width="70" height="auto"></a></td><td style="border:none"><h1><a href="https://seremtitus.co.ke" target="_blank">seremtitus.co.ke</a></h1></td></tr></table>
 
 My own Personal/Freelance website.
 
